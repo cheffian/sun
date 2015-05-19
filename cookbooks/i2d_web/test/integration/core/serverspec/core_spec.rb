@@ -11,7 +11,7 @@ describe 'i2d_web::core' do
   end
 
 #  describe file('/var/www/html/index.html') do
-#    it { }
+#    it {should contain('Welcome to DevOpsDC')}
 #  end
 
 #  describe command('curl -s http://localhost') do
